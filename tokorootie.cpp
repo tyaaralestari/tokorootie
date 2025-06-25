@@ -150,3 +150,7 @@ void menu() {
         }
     } while (pilihan != 5);
 }
+int main() {
+    menu();
+    return 0;
+}
